@@ -1,1 +1,1 @@
-github 개발자 Nimaan Sidhu 의 오픈소스 템플릿을 받아 사용했습니다
+github의 오픈소스 웹사이트 템플릿(8Bit1Byte/WebsiteTempletes)을 이용해 만들었습니다.
